@@ -8,11 +8,9 @@
         - [Upgrading to Windows 8](1.3_OS_windows8.md) 
         - [Upgrading to Windows 8.1](1.3_OS_windows8.1.md) 
         - [Upgrading to Windows 10](1.3_OS_windows10.md) 
-        - [Compatibility tools ](1.3_OS_compatibility.md)
-        
-
-
+        - [Compatibility tools ](1.3_OS_compatibility.md)       
 - Operating System Administration 
+    1. [use appropriate Microsoft command-line tools](1.4_OS_win_cmd_tools.md)
 - Working with Windows 10 
 - Working with Windows 8/8.1 
 - Working with Windows 7 
