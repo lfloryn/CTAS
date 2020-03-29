@@ -8,8 +8,8 @@
         - [Upgrading to Windows 8](1.3_OS_windows8.md) 
         - [Upgrading to Windows 8.1](1.3_OS_windows8.1.md) 
         - [Upgrading to Windows 10](1.3_OS_windows10.md) 
-        - [Compatibility tools ](1.3_OS_Instalation.md)
-        - 
+        - [Compatibility tools ](1.3_OS_compatibility.md)
+        
 
 
 - Operating System Administration 
