@@ -2,7 +2,7 @@
 ## CompTIA A+ - Core 2 (220-1002) objectives covered in this chapter:
 
 # Operating Systems :
-- Operating System Basics 
+- [Operating System Basics](operating_system_basics.md)
 - Operating System Administration 
 - Working with Windows 10 
 - Working with Windows 8/8.1 
@@ -21,3 +21,4 @@
 
 # Operational Procedures :
 - Safety and Environmental Concerns 
+

@@ -1,8 +1,9 @@
-[Home](operating_system_basics.md)
+[Home](Readme.md)
 
 # Compare and contrast common operating system types and their purposes.
 
 ## 32-bit vs. 64-bit
+    - s
 ## RAM limitations
 ## Software compatibility
 ## Workstation operating systems
