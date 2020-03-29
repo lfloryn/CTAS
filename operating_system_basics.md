@@ -1,4 +1,6 @@
-[Home](Readme.md)
+[![Home](/img/home.jpg)](Readme.md)
+
+
 
 # Compare and contrast common operating system types and their purposes.
 
