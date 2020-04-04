@@ -20,6 +20,9 @@
 1. [**Importance of physical security measures**](2.1_Security_Physical.md)
 2. [**Explain logical security concepts**](2.2_Security_logical_security.md)
 3. [**Compare and contrast wireless security protocols and authentication methods**](2.3_Security_wireless.md)
+4. [**Detect, remove, and prevent malware using appropriate tools and methods**](2.4_Security_malware.md)
+5. [**Compare and contrast social engineering, threats, and vulnerabilities.**](2.5_Security_vulnerabilities.md)
+
 
     - Security Concepts 
     - Securing Operating Systems 
