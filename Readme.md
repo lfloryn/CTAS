@@ -16,17 +16,14 @@
     4. [Summarize application installation and configuration concepts](1.7_OS_win_sumarize.md)
     5. [configure Microsoft Windows networking on a client/desktop](1.8_OS_win_windows_network.md)
 
-
-- **Working with Windows 10** 
-- **Working with Windows 8/8.1**
-- **Working with Windows 7**
-- Working with macOS and Linux 
-- **Scripting and Remote Access**
-
 # Security :
-- Security Concepts 
-- Securing Operating Systems 
-- Troubleshooting Operating Systems and Security 
+1. [**Importance of physical security measures**](2.1_Security_Physical.md)
+2. [**Explain logical security concepts**](2.2_Security_logical_security.md)
+3. [**Compare and contrast wireless security protocols and authentication methods**](2.3_Security_wireless.md)
+
+    - Security Concepts 
+    - Securing Operating Systems 
+    - Troubleshooting Operating Systems and Security 
 
 
 # Software Troubleshooting :
@@ -34,4 +31,5 @@
 
 # Operational Procedures :
 - Safety and Environmental Concerns 
+- **Scripting and Remote Access**
 
