@@ -11,7 +11,9 @@
         - [Compatibility tools ](1.3_OS_compatibility.md)       
 - **Operating System Administration** 
     1. [use appropriate Microsoft command-line tools](1.4_OS_win_cmd_tools.md)
-    1. [use Microsoft operating system features and tools](1.5_OS_win_tools.md)
+    2. [use Microsoft operating system features and tools](1.5_OS_win_tools.md)
+    3. [use Microsoft Windows Control Panel utilities](1.6_OS_win_ControlPanel.md)
+
 
 - **Working with Windows 10** 
 - **Working with Windows 8/8.1**
