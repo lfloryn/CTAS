@@ -13,6 +13,8 @@
     1. [use appropriate Microsoft command-line tools](1.4_OS_win_cmd_tools.md)
     2. [use Microsoft operating system features and tools](1.5_OS_win_tools.md)
     3. [use Microsoft Windows Control Panel utilities](1.6_OS_win_ControlPanel.md)
+    4. [Summarize application installation and configuration concepts](1.7_OS_win_sumarize.md)
+    5. [configure Microsoft Windows networking on a client/desktop](1.8_OS_win_windows_network.md)
 
 
 - **Working with Windows 10** 
