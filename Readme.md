@@ -32,12 +32,9 @@
 2. [**Troubleshoot and resolve PC security issues**](3.2_Software_TR_PC_Sec.md)
 3. [**Use best practice procedures for malware removal**](3.3_Software_TR_BP_Mal_rem.md)
 
-
-
-
-- Documentation and Professionalism
-
 # Operational Procedures :
 - Safety and Environmental Concerns 
 - **Scripting and Remote Access**
+
+611
 
