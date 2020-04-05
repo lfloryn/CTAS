@@ -25,6 +25,7 @@
 6. [**Compare and contrast the differences of basic Microsoft Windows OS security settings**](2.6_Security_Win_Os_Settings.md)
 7. [**Implement security best practices to secure a workstation.**](2.7_Security__Best_Practices_OS.md)
 8. [**Implement appropriate data destruction and disposal methods.**](2.8_Security_Disposal.md)
+9. [**Configure security on SOHO wireless and wired networks.**](2.9_Security_SOHO.md)
 
 # Software Troubleshooting :
 - Documentation and Professionalism
