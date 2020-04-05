@@ -30,6 +30,9 @@
 # Software Troubleshooting :
 1. [**Troubleshoot Microsoft Windows OS problems**](3.1_Software_TR_OS_Problem.md)
 2. [**Troubleshoot and resolve PC security issues**](3.2_Software_TR_PC_Sec.md)
+3. [**Use best practice procedures for malware removal**](3.3_Software_TR_BP_Mal_rem.md)
+
+
 
 
 - Documentation and Professionalism
