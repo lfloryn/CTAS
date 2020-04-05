@@ -22,12 +22,7 @@
 3. [**Compare and contrast wireless security protocols and authentication methods**](2.3_Security_wireless.md)
 4. [**Detect, remove, and prevent malware using appropriate tools and methods**](2.4_Security_malware.md)
 5. [**Compare and contrast social engineering, threats, and vulnerabilities.**](2.5_Security_vulnerabilities.md)
-
-
-    - Security Concepts 
-    - Securing Operating Systems 
-    - Troubleshooting Operating Systems and Security 
-
+6. [**Compare and contrast the differences of basic Microsoft Windows OS security settings**](2.6_Security_Win_Os_Settings.md)
 
 # Software Troubleshooting :
 - Documentation and Professionalism
