@@ -1,4 +1,4 @@
-## **CompTIA A+ - Core 2 (220-1002)**
+## **CompTIA A+  Core 2 (220-1002)**
 # Operating Systems :
 - **Operating System Basics**
     1. [Compare and contrast common operating system types and their purposes.](1.1_OS.md)
@@ -17,24 +17,30 @@
     5. [configure Microsoft Windows networking on a client/desktop](1.8_OS_win_windows_network.md)
 
 # Security :
-1. [**Importance of physical security measures**](2.1_Security_Physical.md)
-2. [**Explain logical security concepts**](2.2_Security_logical_security.md)
-3. [**Compare and contrast wireless security protocols and authentication methods**](2.3_Security_wireless.md)
-4. [**Detect, remove, and prevent malware using appropriate tools and methods**](2.4_Security_malware.md)
-5. [**Compare and contrast social engineering, threats, and vulnerabilities.**](2.5_Security_vulnerabilities.md)
-6. [**Compare and contrast the differences of basic Microsoft Windows OS security settings**](2.6_Security_Win_Os_Settings.md)
-7. [**Implement security best practices to secure a workstation.**](2.7_Security__Best_Practices_OS.md)
-8. [**Implement appropriate data destruction and disposal methods.**](2.8_Security_Disposal.md)
-9. [**Configure security on SOHO wireless and wired networks.**](2.9_Security_SOHO.md)
+1. [Importance of physical security measures](2.1_Security_Physical.md)
+2. [Explain logical security concepts](2.2_Security_logical_security.md)
+3. [Compare and contrast wireless security protocols and authentication methods](2.3_Security_wireless.md)
+4. [Detect, remove, and prevent malware using appropriate tools and methods](2.4_Security_malware.md)
+5. [Compare and contrast social engineering, threats, and vulnerabilities.](2.5_Security_vulnerabilities.md)
+6. [Compare and contrast the differences of basic Microsoft Windows OS security settings](2.6_Security_Win_Os_Settings.md)
+7. [Implement security best practices to secure a workstation.](2.7_Security__Best_Practices_OS.md)
+8. [Implement appropriate data destruction and disposal methods.](2.8_Security_Disposal.md)
+9. [Configure security on SOHO wireless and wired networks.](2.9_Security_SOHO.md)
 
 # Software Troubleshooting :
-1. [**Troubleshoot Microsoft Windows OS problems**](3.1_Software_TR_OS_Problem.md)
-2. [**Troubleshoot and resolve PC security issues**](3.2_Software_TR_PC_Sec.md)
-3. [**Use best practice procedures for malware removal**](3.3_Software_TR_BP_Mal_rem.md)
+1. [Troubleshoot Microsoft Windows OS problems](3.1_Software_TR_OS_Problem.md)
+2. [Troubleshoot and resolve PC security issues](3.2_Software_TR_PC_Sec.md)
+3. [Use best practice procedures for malware removal](3.3_Software_TR_BP_Mal_rem.md)
 
 # Operational Procedures :
-- Safety and Environmental Concerns 
-- **Scripting and Remote Access**
 
-611
+1. [Compare and contrast best practices associated with types of documentation](4.1_Operational_Procedure_BP_Doc.md)
+2. [Implement basic change management best practices.](4.2_Operational_Procedure_CM_Implemet.md)
+3. [Implement basic disaster prevention and recovery methods](4.3_Operational_Procedure_DR.md)
+4. [Explain common safety procedures](4.4_Operational_Procedure_Saftey_Procedure.md)
+5. [Explain environmental impacts and appropriate controls.](4.5_Operational_Procedure_Environment_control.md)
+6. [Explain the processes for addressing prohibited content/activity, and privacy, licensing, and policy concepts.](4.6_Operational_Procedure_Licence_Policy.md)
+7. [Use proper communication techniques and professionalism.](4.7_Operational_Procedure_Proper_Comunication.md)
+8. [Identify the basics of scripting.](4.8_Operational_Procedure_Basic_Scripting.md)
+9. [Use remote access technologies](4.9_Operational_Procedure_RAT.md)
 
