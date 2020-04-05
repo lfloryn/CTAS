@@ -23,6 +23,8 @@
 4. [**Detect, remove, and prevent malware using appropriate tools and methods**](2.4_Security_malware.md)
 5. [**Compare and contrast social engineering, threats, and vulnerabilities.**](2.5_Security_vulnerabilities.md)
 6. [**Compare and contrast the differences of basic Microsoft Windows OS security settings**](2.6_Security_Win_Os_Settings.md)
+7. [**Implement security best practices to secure a workstation.**](2.7_Security__Best_Practices_OS.md)
+8. [**Implement appropriate data destruction and disposal methods.**](2.8_Security_Disposal.md)
 
 # Software Troubleshooting :
 - Documentation and Professionalism
