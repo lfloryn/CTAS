@@ -44,3 +44,12 @@
 8. [Identify the basics of scripting.](4.8_Operational_Procedure_Basic_Scripting.md)
 9. [Use remote access technologies](4.9_Operational_Procedure_RAT.md)
 
+
+
+# Formular prezenta
+
+https://forms.office.com/Pages/ResponsePage.aspx?id=Wl_WsjdFpE-Fg9Ne4LmLWhH9kdv20NBIhLIt7jykfe1UMDc4RkhWQlpRRldHR1hUUlNPSzJJM0tTTy4u
+
+​
+
+
