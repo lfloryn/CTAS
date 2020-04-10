@@ -25,6 +25,15 @@ get-help Get-EventLog -ShowWindow
 Get-Alias -Definition Get-Service
 Get-Alias -Definition Get-ChildItem
 
+get-help about_*
+
+get-help about_*if*     -ShowWindow 
+get-help about_Foreach  -ShowWindow 
+
+
+
+
+
 <#
 
 dir
