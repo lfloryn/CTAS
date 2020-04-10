@@ -50,9 +50,6 @@
 
 https://forms.office.com/Pages/ResponsePage.aspx?id=Wl_WsjdFpE-Fg9Ne4LmLWhH9kdv20NBIhLIt7jykfe1UMDc4RkhWQlpRRldHR1hUUlNPSzJJM0tTTy4u
 
-## RDP
-
-https://github.com/Fredy-SSA/CTAS/tree/master/rdptest
 
 
 ​
