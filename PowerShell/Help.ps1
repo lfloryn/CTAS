@@ -1,2 +1,3 @@
 #Count cmdlets
-Get-Command | measure
+Get-Command | Measure-Object
+
