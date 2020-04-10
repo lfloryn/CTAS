@@ -55,8 +55,6 @@ https://forms.office.com/Pages/ResponsePage.aspx?id=Wl_WsjdFpE-Fg9Ne4LmLWhH9kdv2
 https://github.com/Fredy-SSA/CTAS/tree/master/rdptest
 
 
-# test
-asdcvsd
 ​
 
 
