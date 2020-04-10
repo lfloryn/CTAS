@@ -47,3 +47,17 @@ ls
 #>
 
 #find share cmd
+
+Start-Transcript C:\Alin\trascript.txt
+
+Test-NetConnection google.ro -Verbose
+
+Test-Connection ::1
+
+Get-Variable
+
+$PSVersionTable
+
+Stop-Transcript
+
+ise C:\Alin\trascript.txt
